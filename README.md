@@ -8,4 +8,12 @@
 - line contains the year
 - Ex- 2
       2016
-  print the number of days in the particular month in the particular year
+ print the number of days in the particular month in the particular year
+# 3.WaterBill
+You are given the total liter of water used by a house and output the total water bill. The water bill is calculated as follows:
+# Ex:-
+- For first 100 litres: Rs. 15 per litre
+
+- For next 100 litres: Rs. 14 per litre
+
+- After 200 litres: Rs. 12 per litre
